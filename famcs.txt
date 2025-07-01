@@ -1,2 +1,3 @@
 Applied mathematics
 Computer science
+Cybersecurity
